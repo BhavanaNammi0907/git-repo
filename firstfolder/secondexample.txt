@@ -3,3 +3,5 @@ This is a second file to see the changes that can be done in GIT.
 second example
 
 This to get a merge conflict in VS Code while making a git push.
+
+new line added in remote repository.
