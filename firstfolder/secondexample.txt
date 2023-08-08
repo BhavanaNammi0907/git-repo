@@ -5,3 +5,4 @@ second example
 This to get a merge conflict in VS Code while making a git push.
 
 new line added in local.
+new line added in remote repository.
