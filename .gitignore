@@ -1,0 +1,7 @@
+# filelog1.txt - ignores the specific file
+
+# ignores the entire folder
+logs/
+
+# ignore all the txt files in logs folder
+logs/*.txt
